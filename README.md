@@ -1,3 +1,3 @@
 效果：
 
-!()[image.png]
+![](image.png)
